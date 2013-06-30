@@ -2,6 +2,20 @@
   "featured": "YouTube on PS3",
   "projects": [
     {
+      "name": "LetsTradeIt",
+      "thumb": "letstradeit/thumb.png",
+      "desc": "Find the latest stock tips, trending stocks, penny stocks and investment articles fresh every day.",
+      "url": "http://letstradeit.com",
+      "info": "http://letstradeit.com",
+      "submitter": "brycemolder",
+      "submissionDate": "2013-06-30",
+      "tags": [
+        "News", "Stocks", "Finance", "Dev Site",
+        "Entertainment", "Productivity",
+        "NodeJS", "MongoDB", "AngularJS", "jQuery Masonry", "Linux"
+      ]
+    },
+    {
       "name": "Fitblok",
       "thumb": "fitblok/thumb.png",
       "desc": "Fitblok is a One-Page Web app, which provides users with a gym-like experience and enables fitness trainers to develop their own following.",
